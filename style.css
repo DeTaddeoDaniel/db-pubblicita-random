@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: peru;
+}
+
+.container{
+    max-width: 975px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+h1{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+
+}
+
+.pubblicita{
+    padding-bottom: 20px;
+}
+
+img{
+    width: 100%;
+    display: block;
+}
+
+a{
+    display: block;
+}
